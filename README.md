@@ -1,4 +1,4 @@
-# Skin Lesion Classification Using Machine Learning & Deep Learning**
+# Skin Lesion Classification Using Machine Learning & Deep Learning
 
 ## 🧠 **Overview**
 
@@ -119,7 +119,7 @@ Nenhuma instalação extra é necessária além das células do notebook — tud
 O artigo completo está disponível no arquivo:
 
 ```
-IEEE_Trio_Nomes.pdf
+skindesease.pdf
 ```
 ---
 
